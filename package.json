@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-telegram",
+  "version": "1.0.0",
+  "description": "Criando um ChatBotFit no telegram feito na digital innovation one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheuspaixaocrisostenes/chatbot-telegram.git"
+  },
+  "author": "Matheus Paixão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheuspaixaocrisostenes/chatbot-telegram/issues"
+  },
+  "homepage": "https://github.com/Matheuspaixaocrisostenes/chatbot-telegram#readme"
+}
